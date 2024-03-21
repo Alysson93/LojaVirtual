@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaVirtualAPI", "LojaVirtualAPI\LojaVirtualAPI.csproj", "{C35A050E-AD41-406F-9488-CDA6223C09E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaVirtualModels", "LojaVirtualModels\LojaVirtualModels.csproj", "{A3B4B30B-5008-48DA-8A8C-3BAF6C3B6126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaVirtualWeb", "LojaVirtualWeb\LojaVirtualWeb.csproj", "{7BDDA8B4-56F2-4664-995A-133124688601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C35A050E-AD41-406F-9488-CDA6223C09E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C35A050E-AD41-406F-9488-CDA6223C09E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35A050E-AD41-406F-9488-CDA6223C09E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35A050E-AD41-406F-9488-CDA6223C09E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B4B30B-5008-48DA-8A8C-3BAF6C3B6126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B4B30B-5008-48DA-8A8C-3BAF6C3B6126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B4B30B-5008-48DA-8A8C-3BAF6C3B6126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B4B30B-5008-48DA-8A8C-3BAF6C3B6126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BDDA8B4-56F2-4664-995A-133124688601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BDDA8B4-56F2-4664-995A-133124688601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BDDA8B4-56F2-4664-995A-133124688601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BDDA8B4-56F2-4664-995A-133124688601}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
